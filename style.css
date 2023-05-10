@@ -1,0 +1,19 @@
+#hour,#minutes,#seconds{
+    width: 20px;
+    margin-top: 10px;
+}
+#startButton,#stopButton{
+    margin-top: 30px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#countDownTimer{
+    margin-top: 30px;
+    font-size: 40px;
+}
+#finalTimer{
+    color: red;
+    font-size: 150px;
+}
